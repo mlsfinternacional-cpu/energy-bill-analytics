@@ -29,6 +29,10 @@ The dataset was manually created from three residential electricity bills issued
 - Data visualization
 - Conclusions and insights
 
+
 ## Author
 
-Maria Laura Correa da Silva
+**Maria Laura Correa da Silva**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/maria-laura-corrêa-da-silva-059633287
+- 💻 GitHub: https://github.com/mlsfinternacional-cpu
