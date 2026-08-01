@@ -13,6 +13,24 @@ The dataset was manually created from three residential electricity bills issued
 - 2024
 - 2025
 - 2026
+  
+### Data Privacy
+
+To protect personal information, all electricity bills included in this repository were anonymized before publication.
+
+The anonymization process removed or masked personal identifiers such as:
+
+- Customer name
+- CPF
+- Address
+- Consumer Unit Number
+- QR Code
+- Fiscal access key
+- Payment identifiers
+
+Only the technical information required for data extraction and analysis (energy consumption, tariffs, taxes, billing values, reading dates and historical consumption) was preserved.
+
+This project follows good data governance practices and respects the principles of Brazil's General Data Protection Law (LGPD - Lei nº 13.709/2018).
 
 ## Technologies
 
